@@ -1,7 +1,7 @@
 # Your-Choice-Homework
 ## Overview
 
-This simple program simulates some students and their favorite class. It uses two lists to store student names and class names, then assigns each student a random class. The results are stored in a HashMap, where the key is the student's name and the value is their randomly assigned favorite class. The program then prints out each student's name and thier favorite class.
+This simple program simulates some fake students and their favorite class. It uses two lists to store student names and class names, then assigns each student a random class. The results are stored in a HashMap, where the key is the student's name and the value is their randomly assigned favorite class. The program then prints out each student's name and thier favorite class.
 
 ## How It Works
 
